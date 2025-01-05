@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+                   xmlns:ns1="http://xml.amadeus.com/PNRXCL_10_1_1A" xmlns:ns2="http://www.w3.org/2005/08/addressing"
+                   xmlns:ns3="http://xml.amadeus.com/2010/06/Session_v3">
+    <SOAP-ENV:Header>
+    </SOAP-ENV:Header>
+    <SOAP-ENV:Body>
+        <ns1:PNR_Cancel></ns1:PNR_Cancel>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
